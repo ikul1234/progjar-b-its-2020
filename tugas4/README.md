@@ -19,7 +19,7 @@
 ![upload](readme_pic/gambar1.jpg)  
      
 ## Mengambil File/Mendownload File berupa foto dengan menjalankan downloadClient.py
-![upload](readme_pic/run_download.jpg)
+![upload](readme_pic/run_download.PNG)
 
 * Isi directory utama sebelum program dijalankan
     
