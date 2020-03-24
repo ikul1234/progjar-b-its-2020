@@ -30,7 +30,7 @@
     ![upload](readme_pic/dir_utama2.jpg)
     
 * Isi gambar
-    ![upload](readme_pic/gambar2.jpg)
+    ![upload](readme_pic/gambar2.PNG)
     
 ## Melihat list dengan menjalankan program lsClient.py
 ![upload](readme_pic/run_list.jpg)
